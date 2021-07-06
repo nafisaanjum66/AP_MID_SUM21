@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "Dashboard";
+}
+
+<h2>Dashboard</h2>
+<h3>Welcome @Session["Username"]</h3>
+<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+        <li>
+            <form action="/HMS/Details" method="post">
+                <div class="d-inline-block">
+                    <input type="hidden" name="username" value="@Session["Username"]" />
+                    <input class="btn btn-default" type="submit" value="View my Profile" />
+                </div>
+
+            </form>
+
+        </li>
+        <li>
+            <form action="/HMS/Patient" method="post">
+                @*<input type="hidden" name="username" value="@Session["Username"]" />*@
+                <div class="d-inline-block mx-3">
+                    <input class="btn btn-default" type="submit" value="View Patient" />
+                </div>
+
+            </form>
+
+        </li>
+        <li>
+            <form action="/HMS/Login" method="post">
+                @*<input type="hidden" name="username" value="@Session["Username"]" />*@
+                <div class="d-inline-block mx-3">
+                    <input class="btn btn-danger" type="submit" value="Logout" />
+                </div>
+
+            </form>
+
+        </li>
+        @*<li>@Html.ActionLink("About", "About", "HMS")</li>
+        <li>@Html.ActionLink("Contact", "Contact", "HMS")</li>*@
+    </ul>
+</div>
+

@@ -1,0 +1,60 @@
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\Hospital Management System.dll.config
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\Hospital Management System.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\Hospital Management System.pdb
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\csc.exe
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\csc.exe.config
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\csc.rsp
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\csi.exe
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\csi.rsp
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\System.AppContext.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\vbc.exe
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\vbc.exe.config
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\vbc.rsp
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\Antlr3.Runtime.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\EntityFramework.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\System.Web.Helpers.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\System.Web.Mvc.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\System.Web.Optimization.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\System.Web.Razor.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\System.Web.WebPages.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\WebGrease.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\EntityFramework.xml
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\System.Web.Helpers.xml
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\System.Web.Mvc.xml
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\System.Web.Optimization.xml
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\System.Web.Razor.xml
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\System.Web.WebPages.xml
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\Antlr3.Runtime.pdb
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CopyComplete
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.dll
+C:\Users\HP\source\repos\advance.net\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
