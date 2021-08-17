@@ -1,0 +1,36 @@
+C:\Users\SR COMPUTER5\source\repos\FinalAssignment\DAL\bin\Debug\DAL.dll.config
+C:\Users\SR COMPUTER5\source\repos\FinalAssignment\DAL\bin\Debug\DAL.dll
+C:\Users\SR COMPUTER5\source\repos\FinalAssignment\DAL\bin\Debug\DAL.pdb
+C:\Users\SR COMPUTER5\source\repos\FinalAssignment\DAL\bin\Debug\EntityFramework.dll
+C:\Users\SR COMPUTER5\source\repos\FinalAssignment\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SR COMPUTER5\source\repos\FinalAssignment\DAL\bin\Debug\EntityFramework.xml
+C:\Users\SR COMPUTER5\source\repos\FinalAssignment\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SR COMPUTER5\source\repos\FinalAssignment\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\SR COMPUTER5\source\repos\FinalAssignment\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\SR COMPUTER5\source\repos\FinalAssignment\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\SR COMPUTER5\source\repos\FinalAssignment\DAL\obj\Debug\DAL.dll
+C:\Users\SR COMPUTER5\source\repos\FinalAssignment\DAL\obj\Debug\DAL.pdb
+F:\Github-represotory\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\Github-represotory\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Github-represotory\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\obj\Debug\DAL.dll
+F:\Github-represotory\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\obj\Debug\DAL.pdb
+F:\Github-represotory\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\bin\Debug\DAL.dll.config
+F:\Github-represotory\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\bin\Debug\DAL.dll
+F:\Github-represotory\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\bin\Debug\DAL.pdb
+F:\Github-represotory\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\bin\Debug\EntityFramework.dll
+F:\Github-represotory\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Github-represotory\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\bin\Debug\EntityFramework.xml
+F:\Github-represotory\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Github-represotory\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\semester 10\Advance .net\shihab uddin repository\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\bin\Debug\DAL.dll.config
+G:\semester 10\Advance .net\shihab uddin repository\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\bin\Debug\DAL.dll
+G:\semester 10\Advance .net\shihab uddin repository\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\bin\Debug\DAL.pdb
+G:\semester 10\Advance .net\shihab uddin repository\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\bin\Debug\EntityFramework.dll
+G:\semester 10\Advance .net\shihab uddin repository\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\semester 10\Advance .net\shihab uddin repository\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\bin\Debug\EntityFramework.xml
+G:\semester 10\Advance .net\shihab uddin repository\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\semester 10\Advance .net\shihab uddin repository\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+G:\semester 10\Advance .net\shihab uddin repository\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\semester 10\Advance .net\shihab uddin repository\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\semester 10\Advance .net\shihab uddin repository\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\obj\Debug\DAL.dll
+G:\semester 10\Advance .net\shihab uddin repository\AP_MID_SUM21\FinalAsssignment2\FinalAssignment\DAL\obj\Debug\DAL.pdb
